@@ -1,0 +1,8 @@
+main: me.HybridPlague.MuseumBook.Main
+name: MuseumBook
+author: HybridPlague
+version: 1.0
+api-version: 1.13
+
+commands:
+  NeedMuseumBook:
